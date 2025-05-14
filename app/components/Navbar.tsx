@@ -15,16 +15,10 @@ export default function NavBar() {
       <Link href="/">
         <h1 className={styles.logo}>Supabase Demo</h1>
       </Link>
-      <ul className={styles.navLinks}>
-        <li className={styles.navLinkItem}>
-          <Link href="/">Home</Link>
-        </li>
-        <li className={styles.navLinkItem}>
-          <button className={styles.logoutButton} onClick={handleLogout}>
-            Logout
-          </button>
-        </li>
-      </ul>
+
+      <button className={styles.logoutButton} onClick={handleLogout}>
+        Logout
+      </button>
     </nav>
   );
 }
