@@ -32,3 +32,9 @@ A simple authentication demo using **Supabase** and **Next.js v15 (App Router)**
 - After signup, you can login & if everything has been setup correctly, you should see a successfull login message
 
 This project is mainly for my personal learning, so i haven't exposed login credentials.
+
+---
+
+## Live Demo
+
+Please checkout [Supabase + Next.js v15 Auth Demo](https://supabase-nextjs-auth-umber.vercel.app/)
