@@ -22,3 +22,13 @@ A simple authentication demo using **Supabase** and **Next.js v15 (App Router)**
 - [@supabase/ssr](https://supabase.com/docs/guides/auth/server-side/nextjs)
 - Vercel (for deployment)
 - Module CSS for styling
+
+---
+
+## How it Works?
+
+- You've to create your account with [Supabase](https://supabase.com/)
+- You've to signup & your details would be saved on the database.
+- After signup, you can login & if everything has been setup correctly, you should see a successfull login message
+
+This project is mainly for my personal learning, so i haven't exposed login credentials.
